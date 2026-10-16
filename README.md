@@ -55,8 +55,8 @@ Result
 
 Screenshots
 
-(<img width="1900" height="845" alt="image" src="https://github.com/user-attachments/assets/ae0a259c-673a-4787-8f2d-80a728827fbf" />
-)
+<img width="1920" height="911" alt="test" src="https://github.com/user-attachments/assets/a5d4e9c9-0b15-4539-aea2-0e1e31292e0c" />
+
 Lessons Learned
 
     ELK Stack Setup
