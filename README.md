@@ -55,7 +55,8 @@ Result
 
 Screenshots
 
-![test](https://github.com/user-attachments/assets/a5d4e9c9-0b15-4539-aea2-0e1e31292e0c)
+![Alerts Dashboard](https://github.com/user-attachments/assets/a5d4e9c9-0b15-4539-aea2-0e1e31292e0c)
+
 Lessons Learned
 
     ELK Stack Setup
